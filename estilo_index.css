@@ -1,0 +1,19 @@
+label.info{
+				color: #363636;
+				font-weight:bold;
+				font-size:17px;
+			}
+
+			label.resp{
+				color: #363636;
+				font-size:16px;
+			}
+
+			.resp a{
+				text-decoration:none;
+				color: rgb(27,117,193);
+			}
+
+			.resp a:hover{
+				text-decoration:underline;
+}

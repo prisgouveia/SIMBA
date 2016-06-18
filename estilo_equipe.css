@@ -1,0 +1,14 @@
+th{
+	font-size:17px;
+	color: #363636;
+	text-align:left;
+}
+
+.clattes{
+	text-decoration:none;
+	color: rgb(27,117,193);
+}
+
+.clattes:hover{
+	text-decoration:underline;
+}

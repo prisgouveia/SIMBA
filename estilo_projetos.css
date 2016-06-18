@@ -1,0 +1,18 @@
+.nomeProj {
+	font-size:16px;
+	font-family: Plantagenet Cherokee, serif;
+	color: rgb(27,117,193);
+	text-decoration:none;
+	font-family: Plantagenet Cherokee, serif;
+}
+
+.nomeProj:hover{
+	text-decoration: underline;
+} 
+
+.coord{
+	font-size:16px;
+	font-family: Plantagenet Cherokee, serif;
+	color: #9C9C9C;
+	font-family: Plantagenet Cherokee, serif;
+}

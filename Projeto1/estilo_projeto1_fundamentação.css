@@ -1,0 +1,214 @@
+body{
+	display: block;
+	background-color:white;
+	background: url(../Images/background2.jpg) no-repeat center top;
+	margin: 0px;
+	padding: 0px;
+}
+
+div#principal{
+	width:850px;
+	margin:0 auto;
+}
+
+nav ul {
+	list-style-type: none;
+	background-color: rgb(0,49,82);
+	padding: 9px;
+	padding-right:0px;
+	padding-left:0px;
+	margin-top:0px;
+	border-radius:5px;
+	position:relative;
+	top:-7px;
+}
+
+nav ul li{
+	display: inline;
+	font-size:15px;
+	font-family: Plantagenet Cherokee, serif;
+	padding: 6px;
+	
+}
+
+nav ul li#sobre a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color:white;
+}
+
+nav ul li#sobre a:hover{
+	background-color:#6C7B8B;
+	border-radius:5px;
+}
+
+nav ul li#equipe a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color:white;
+}
+
+nav ul li#equipe a:hover{
+	background-color:#6C7B8B;
+	border-radius:5px;
+}
+
+nav ul li#pes a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color:white;
+}
+
+nav ul li#pes a:hover{
+	background-color:#6C7B8B;
+	border-radius:5px;	
+}
+
+nav ul li#proj a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color:white;
+}
+
+nav ul li#proj a:hover{
+	background-color:#6C7B8B;
+	border-radius:5px;
+}
+
+nav ul li#evento a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color:white;
+}
+
+nav ul li#evento a:hover{
+	background-color:#6C7B8B;
+	border-radius:5px;
+}
+
+nav ul li#artigo a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color:white;
+}
+
+nav ul li#artigo a:hover{
+	background-color:#6C7B8B;
+	border-radius:5px;
+}
+
+nav ul li#contato a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color:white;
+}
+
+nav ul li#contato a:hover{
+	background-color:#6C7B8B;
+	border-radius:5px;
+}
+
+div.news{
+	border:1px;
+	border-style:solid;
+	border-color:gray;
+	float: right;
+	width: 28%;
+	background-color: white;
+	margin-top:50px;
+	padding:10px;
+}
+
+div.news p{
+	font-family: Plantagenet Cherokee, serif;
+	text-align:justify;
+	color: #363636;
+}
+
+label#news{
+	font-size:17px;
+	font-family: Plantagenet Cherokee, serif;
+	background-color: rgb(0,49,82);
+	padding:5px 100px;
+	color:white;
+	float:right;
+	position:relative;
+	top:30px;
+}
+
+label#morenews a{
+	font-size:16px;
+	font-family: Plantagenet Cherokee, serif;
+	color: rgb(27,117,193);
+	float:right;
+	position:relative;
+	top:0px;
+	text-decoration:none;
+}
+
+label#morenews a:hover{
+	text-decoration:underline;
+}
+
+.linknews {
+	font-size:17px;
+	font-family: Plantagenet Cherokee, serif;
+	color: rgb(27,117,193);
+	text-decoration:none;
+	font-family: Plantagenet Cherokee, serif;
+}
+
+.linknews:hover{
+	text-decoration:underline;
+}
+
+div.fundamentacaoProj1{
+	font-family: Plantagenet Cherokee, serif;
+	text-align:justify;
+	color: #363636;
+	border:1px;
+	border-style:solid;
+	border-color:gray;
+	float:left;
+	width: 62%;
+	background-color: white;
+	margin-top:10px;
+	padding:10px;
+}
+
+hr{
+	width:80%;
+	color:gray;
+	background-color:gray;
+}
+
+label#fundamentacao {
+	font-family: Plantagenet Cherokee, serif;
+	font-size:17px;
+	color:  rgb(0,49,82);
+} 
+
+#sumario{
+	font-size:16px;
+	font-family: Plantagenet Cherokee, serif;
+	color: #9C9C9C;
+	font-family: Plantagenet Cherokee, serif;
+	position:relative;
+	left: 450px;
+	text-decoration:none;
+}
+
+#sumario:hover{
+	text-decoration:underline;
+}
+
+#topo{
+	position:fixed;
+	left:160px;
+	top: 600px;
+}
+
+#ant{
+	position: relative;
+	left:460px;
+}
